@@ -1,3 +1,4 @@
+//nice
 // For Elements
 const num1Input = document.getElementById("num1");
 const num2Input = document.getElementById("num2");
